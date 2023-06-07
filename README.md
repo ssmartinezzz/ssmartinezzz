@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-## I'm [Santiago] ⭐⭐⭐ 🇦🇷
+## I'm Santiago ⭐⭐⭐ 🇦🇷
 
 Welcome to my GitHub profile! Here you'll find a showcase of my projects and contributions in various technologies and fields.
 
@@ -49,7 +49,7 @@ Here's a list of some of the technologies I work with:
 
 You can find me on the following platforms:
 
-- [LinkedIn](link_to_your_profile)
+- [LinkedIn](https://www.linkedin.com/in/santiago-martinez-9a13b9218/)
 
 Feel free to reach out if you have any questions or would like to collaborate on an interesting project!
 
