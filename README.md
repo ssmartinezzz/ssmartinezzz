@@ -1,3 +1,5 @@
+![Terminal running a Selenium suite that ends in an Allure report](assets/header.svg)
+
 # Santiago Martínez
 
 **QA Automation Engineer** — San Rafael, Mendoza, Argentina
@@ -6,6 +8,9 @@ I build test automation that gates delivery: suites that have to be green before
 a merge lands. Web, mobile and RPA, on Python and Java.
 
 [Portfolio](https://github.com/ssmartinezzz/qa-engineer-portfolio) · [LinkedIn](https://linkedin.com/in/ssmartinezzz)
+
+> [!NOTE]
+> Open to new opportunities in QA automation.
 
 ---
 
