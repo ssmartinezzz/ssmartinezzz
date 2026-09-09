@@ -7,7 +7,7 @@
 I build test automation that gates delivery: suites that have to be green before
 a merge lands. Web, mobile and RPA, on Python and Java.
 
-[Portfolio](https://github.com/ssmartinezzz/qa-engineer-portfolio) · [LinkedIn](https://linkedin.com/in/ssmartinezzz)
+**[automationbysanti.dev](https://www.automationbysanti.dev/)** · [LinkedIn](https://linkedin.com/in/ssmartinezzz) · [portfolio source](https://github.com/ssmartinezzz/qa-engineer-portfolio)
 
 > [!NOTE]
 > Open to new opportunities in QA automation.
