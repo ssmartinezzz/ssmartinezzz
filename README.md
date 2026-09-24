@@ -24,20 +24,13 @@
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,go&theme=dark" alt="Python, Java, JavaScript, TypeScript, Go"><br>
-  <img src="https://skillicons.dev/icons?i=selenium,react,django,postgres,docker&theme=dark" alt="Selenium, React, Django, PostgreSQL, Docker"><br>
-  <img src="https://skillicons.dev/icons?i=git,githubactions,jenkins,azure,linux,bash,neovim&theme=dark" alt="Git, GitHub Actions, Jenkins, Azure, Linux, Bash, Neovim">
+  <img src="https://skillicons.dev/icons?i=py,java,selenium,fastapi,postgres&theme=dark" alt="Python, Java, Selenium, FastAPI, PostgreSQL"><br>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,azure,jenkins&theme=dark" alt="Docker, Git, Linux, Azure, Jenkins">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
-  <img src="https://img.shields.io/badge/Appium-662CA8?style=for-the-badge&logo=appium&logoColor=white" alt="Appium">
-  <img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" alt="WebdriverIO">
-  <img src="https://img.shields.io/badge/TestNG-D22128?style=for-the-badge" alt="TestNG">
-  <img src="https://img.shields.io/badge/Allure-FF6A00?style=for-the-badge" alt="Allure">
-  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Virtuoso_QA-6B4EFF?style=for-the-badge" alt="Virtuoso QA">
 </p>
 
 ---
