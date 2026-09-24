@@ -31,6 +31,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
   <img src="https://img.shields.io/badge/Virtuoso_QA-6B4EFF?style=for-the-badge" alt="Virtuoso QA">
+  <img src="https://img.shields.io/badge/Appium-662CA8?style=for-the-badge&logo=appium&logoColor=white" alt="Appium">
+  <img src="https://img.shields.io/badge/TestNG-D22128?style=for-the-badge" alt="TestNG">
+  <img src="https://img.shields.io/badge/REST_Assured-2A9D8F?style=for-the-badge" alt="REST Assured">
+  <img src="https://img.shields.io/badge/Allure-FF6A00?style=for-the-badge" alt="Allure">
 </p>
 
 ---
