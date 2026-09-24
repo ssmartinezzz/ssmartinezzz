@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220" role="img" aria-label="POM Platform — Web page in, Page Objects out. Playwright extraction + codegen.">
+  <style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.glow{animation:pulse 2.4s ease-in-out infinite}@keyframes pulse{50%{opacity:.35}}</style>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#131921"/><stop offset="1" stop-color="#0c1016"/></linearGradient></defs>
+  <rect width="400" height="220" rx="14" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="399" height="219" rx="13.5" fill="none" stroke="#2a3140"/>
+  <rect x="24" y="24" width="36" height="4" rx="2" fill="#82aaff"/>
+  <circle cx="366" cy="34" r="6" fill="#82aaff" class="glow"/>
+  <text x="24" y="76" class="m" font-size="30" font-weight="700" fill="#e8ebf0">POM Platform</text>
+  <text x="24" y="116" class="m" font-size="14" fill="#8b93a3">Web page in, Page Objects out.</text>
+  <text x="24" y="138" class="m" font-size="14" fill="#8b93a3">Playwright extraction + codegen.</text>
+  <rect x="24" y="178" width="36" height="24" rx="12" fill="none" stroke="#82aaff" stroke-opacity=".55"/><text x="34" y="194" class="m" font-size="12" fill="#c9ced8">Go</text><rect x="68" y="178" width="100" height="24" rx="12" fill="none" stroke="#82aaff" stroke-opacity=".55"/><text x="78" y="194" class="m" font-size="12" fill="#c9ced8">Playwright</text><rect x="176" y="178" width="116" height="24" rx="12" fill="none" stroke="#82aaff" stroke-opacity=".55"/><text x="186" y="194" class="m" font-size="12" fill="#c9ced8">React Native</text>
+</svg>
